@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="loginsuccess">Login Success</string>
+    <string name="loginerror">Login Error! Try Again</string>
+    <string name="account">Account :</string>
+    <string name="pass">Password :</string>
+    <string name="login">Login</string>
+
+    <string name="about">About</string>
+    <string name="name">Name</string>
+    <string name="clasS">Class</string>
+    <string name="studentcode">Student code</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+
+    <string name="productcode">Code :</string>
+    <string name="productname">Name :</string>
+    <string name="productdescription">Description :</string>
+    <string name="producttype">Type :</string>
+    <string name="productprice">Price :</string>
+    <string name="type">Type</string>
+    <string name="unit">/unit</string>
+
+    <string name="add">Add</string>
+    <string name="exit">Exit</string>
+    <string name="update">Update</string>
+    <string name="delete">Del</string>
+
+    <string name="takepic">Take Picture</string>
+    <string name="choosepic">Choose Picture</string>
+
+    <string name="del1">Confirm deletion</string>
+    <string name="del2">You want to delete it?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="databinding">Data Binding!</string>
+    <string name="cantdel">CAN\'T DELETE</string>
+
+    <string name="fix">Fix Successful</string>
+    <string name="code">Code</string>
+
+    <string name="successfulcreation">Add Successful!</string>
+    <string name="permissioncall">Please grant permission manually on App Setting</string>
+    <string name="denipermissioncall">You have denied permission to call. Cancel the action</string>
+
+    <string name="map_api_key">AIzaSyATJwAtVhHB5MAUd3LIfdfcOVQzxZ0NUEE</string>
+</resources>

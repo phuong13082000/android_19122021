@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_about.xml" value="0.7418335089567967" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_add_loai.xml" value="0.24365942028985507" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_add_nhanvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_add_phongban.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_add_trai_cay.xml" value="0.5" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_chi_tiet_nhanvien.xml" value="0.264" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_chi_tiet_trai_cay.xml" value="0.5" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_loai.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_nhanvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_them_loai.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_trai_cay.xml" value="0.5861781848459617" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_update_loai.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_update_nhanvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_update_phongban.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/activity_update_trai_cay.xml" value="0.5" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/dong_nhanvien.xml" value="0.536" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/dong_phu.xml" value="0.33" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/dong_traiCay.xml" value="0.1" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/dong_traicay.xml" value="0.5" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/loai_traicay.xml" value="0.5" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/main_nhanvien.xml" value="0.4" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/layout/main_traicay.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/menu/menu_nhanvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/menu/menu_options.xml" value="0.33" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/menu/menu_options_chung.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/menu/menu_options_loai.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/menu/menu_options_traicay.xml" value="0.3619791666666667" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/menu/menu_phongban.xml" value="0.25416666666666665" />
+        <entry key="..\:/android/MyApplication/app/src/main/res/xml/asset.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

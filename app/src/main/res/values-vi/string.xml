@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="loginsuccess">Đăng Nhập Thành Công</string>
+    <string name="loginerror">Đăng Nhập Thất Bại! Thử Lại</string>
+    <string name="account">Tài Khoản :</string>
+    <string name="pass">Mật Khẩu :</string>
+    <string name="login">Đăng Nhập</string>
+
+    <string name="about">Thông Tin</string>
+    <string name="name">Tên</string>
+    <string name="clasS">Lớp</string>
+    <string name="studentcode">MSSV</string>
+    <string name="email">Email</string>
+    <string name="number">Số</string>
+
+    <string name="productcode">Mã :</string>
+    <string name="productname">Tên :</string>
+    <string name="productdescription">Mô Tả :</string>
+    <string name="producttype">Loại :</string>
+    <string name="productprice">Giá :</string>
+    <string name="type">Loại</string>
+    <string name="unit">/Đơn vị</string>
+
+    <string name="add">Thêm</string>
+    <string name="exit">Thoát</string>
+    <string name="update">Cập Nhật</string>
+    <string name="delete">Xóa</string>
+
+    <string name="takepic">Chụp Hình</string>
+    <string name="choosepic">Chọn Hình</string>
+
+    <string name="del1">Xác nhận xóa</string>
+    <string name="del2">Bạn có chắc chắn muốn xóa?</string>
+    <string name="Yes">Có</string>
+    <string name="No">Không</string>
+    <string name="databinding">Dữ liệu bị ràng buộc!</string>
+    <string name="cantdel">Không thể xóa</string>
+
+    <string name="fix">Sửa thành công</string>
+    <string name="code">Mã</string>
+
+    <string name="successfulcreation">Tạo Thành Công</string>
+    <string name="permissioncall">Vui lòng cấp quyền thủ công trên App Setting</string>
+    <string name="denipermissioncall">Bạn đã từ chối cấp quyền gọi. Hủy thao tác</string>
+
+    <string name="map_api_key">AIzaSyATJwAtVhHB5MAUd3LIfdfcOVQzxZ0NUEE</string>
+</resources>
